@@ -1,0 +1,6 @@
+name = "gpt-5-examples"
+compatibility_date = "2024-01-01"
+
+[build]
+command = "npm run build"
+directory = "out"
